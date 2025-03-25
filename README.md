@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Milan08S
 - 👀 I’m interested in Programing
-- 🌱 I’m currently learning Rodin
+- 🌱 I’m currently learning .NET
 - 💞️ I’m looking to collaborate on a bussiness
 - 📫 How to reach me, gmail: miguesanchez82003@gmail.com
 
